@@ -7,7 +7,14 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 
 # This repo contains the following files:
+
 1.README.md:An overview about the project
+
+
 2.CodeBook.md: A code book that describes the variables, the data, and any transformations that is performed to clean up the data 
+
+
 3.run_analysis.R:The R script that was used to clean up the data
+
+
 4.TidyData.txt:The tidy data set as required for the project
